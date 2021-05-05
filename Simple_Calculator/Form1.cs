@@ -273,10 +273,7 @@ namespace Simple_Calculator
                     result = Math.Pow(a, b);
                 }
             }
-                /*if(operation == "√")
-                {
-                    result = Math.Sqrt(a);
-                }*/
+                
                 
 
                 screen.Text = result.ToString();
